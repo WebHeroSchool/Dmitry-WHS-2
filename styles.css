@@ -1,0 +1,11 @@
+body{
+	font-family: 'Spectral SC', serif;
+}
+.Title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 180%
+}
+.Text {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 100%
+}
